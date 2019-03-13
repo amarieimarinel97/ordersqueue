@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bautura">
+    <Position X="16" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAAAAAABAEAIAAAABAEAAAAAAEAgAAAAAAAAAA=</HashCode>
+      <FileName>Bautura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desert">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAABAEAIAAAABAAAEAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Desert.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inghetata">
+    <Position X="6.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAAAAAAAAAABAAAIAAAABAAgBAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Desert.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prajitura">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAgAAAAAQABAAAIAAAABAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Desert.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Produs">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEAAABAQBAAAIAAAADAAAAAEAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Ierarhie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sampanie">
+    <Position X="14.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAAAAABAAAIAAAABAAAAAAAAAACAAAAAAAAgA=</HashCode>
+      <FileName>Bautura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Suc">
+    <Position X="17.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAQAAAABAAAYAAAABAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Bautura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Supa">
+    <Position X="2" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAgAAAAQABAAAIAAAABAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>FelPrincipal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FelPrincipal">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAAAAABAAAIAAAABAAAAAAAAAAAAAAIAAAAQA=</HashCode>
+      <FileName>FelPrincipal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Friptura">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAABBAAIAAAABAAAAAgAAAAAAAAAAAIEAA=</HashCode>
+      <FileName>FelPrincipal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
