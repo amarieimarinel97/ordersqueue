@@ -1,2 +1,2 @@
 # ordersqueue
-# Old project
+# Old and discontinued project
